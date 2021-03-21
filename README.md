@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @EricCote
 - 👀 I’m interested in React, Azure, Gatsby, Sql Server, Github and Full Stack development
 - 🌱 I’m always trying to learn new stuff. I'm creating courses, like the one at ReactAcademy.Live .
-- 💞️ I’m looking to collaborate on stuff.  
+- 💞️ I’m looking to collaborate on a video series on React
 - 📫 To reach me, use the "contact me" form on my website: https://ReactAcademy.live 
 
 <!---
