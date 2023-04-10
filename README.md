@@ -9,6 +9,8 @@
 - 💞️ I’m looking to collaborate on a video series on React
 - 📫 To reach me, use the "contact me" form on my website: https://www.ReactAcademy.live/ 
 
+<img src="https://www.reactacademy.live/static/20616643d8afc491bd4c1817ae69db63/5a6cd/Eric_Cote.webp" />
+
 <!---
 EricCote/EricCote is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
